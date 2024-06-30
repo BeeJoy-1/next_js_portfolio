@@ -23,7 +23,7 @@ const Photo = () => {
                     opacity: 1, 
                     transition: { delay: 2.4, duration: 0.4, ease: "easeInOut"}
                 }}
-                className='w-[298px] h-[298px] xl:w-[498px] xl:h-[498px] absolute'>
+                className='w-[298px] h-[298px] xl:w-[498px] xl:h-[498px] absolute '>
                     <Image 
                     src="/assets/Me.png" 
                     priority 
@@ -45,7 +45,7 @@ const Photo = () => {
                     cy="253" 
                     r="250"
                     stroke="#00ff99"
-                    strokeWidth="4"
+                    strokeWidth="6"
                     strokeLinecap="round"
                     strokeLinejoin="round"
                     initial={{ strokeDasharray: "24 10 0 0" }}
