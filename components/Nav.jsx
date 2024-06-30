@@ -29,6 +29,7 @@ const links = [
 
 
 const Nav = () => {
+
     const pathname = usePathname();
 
   return (
