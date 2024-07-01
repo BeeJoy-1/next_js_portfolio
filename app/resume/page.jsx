@@ -46,7 +46,7 @@ const about = {
       fieldValue: "shahriar_0.0",
     },
     {
-      fieldName: "nationality",
+      fieldName: "Nationality",
       fieldValue: "Bangladeshi",
     },
     {
