@@ -9,7 +9,7 @@ import { Dice1 } from "lucide-react";
 const services = [
   {
     num: "01",
-    title: "Web Development",
+    title: "Frontend Development",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     href: "",
   },
