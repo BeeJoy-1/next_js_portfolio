@@ -58,14 +58,20 @@ const projects = [
   },
   {
     num: "03",
-    category: "Frontend",
+    category: "Backend",
     title: "project 3",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt ad ipsum magnam?",
-    stack: [{ name: "Next.js" }, { name: "Tailwind.css" }],
+    stack: [
+      { name: "MongoDB" },
+      { name: "Node.js" },
+      { name: "Express.js" },
+      { name: "Next.js" },
+      { name: "Tailwind.css" },
+    ],
     image: "/assets/work/thumb3.png",
     Live: "",
-    github: "",
+    github: "https://github.com/BeeJoy-1/Exclusive_E-commerce_Backend",
   },
 ];
 
